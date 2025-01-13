@@ -17,8 +17,10 @@ from utils import definitions
 # Сервіс як приклад логує всі HTTP-заголовки, які отримує з запитами.
 # У промисловому сервісі слід передбачити логування службових заголовків системи "Трембіта".
 # Перелік службових заголовків системи "Трембіта":
-# Uxp-Client
+# Uxp-Clien
 # Uxp-Service
+# Uxp-Queryid
+# Uxp-Userid
 # Uxp-Purpose-Ids
 # Uxp-Subject-Id
 
