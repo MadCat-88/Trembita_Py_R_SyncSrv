@@ -91,7 +91,7 @@ git clone https://github.com/MadCat-88/Trembita_Py_R_SyncSrv.git
 ### 8. Перейти до директорії з вебсервісом:
 
 ```bash
-cd FastAPI_trembita_service
+cd Trembita_Py_R_SyncSrv
 ```
 
 ### 9. Створити віртуальне середовище:
@@ -131,7 +131,7 @@ alembic upgrade head
 
 ### 14. Створити systemd unit-файл для запуску вебсервісу:
 
-**Примітка** Перед виконанням команди необхідно перевірити за допомого `pwd` що ви знаходитесь у директорії `FastAPI_trembita_service`. 
+**Примітка** Перед виконанням команди необхідно перевірити за допомого `pwd` що ви знаходитесь у директорії `Trembita_Py_R_SyncSrv`. 
 
 Створіть systemd unit-файл для запуску сервісу:
 
