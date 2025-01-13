@@ -85,7 +85,7 @@ exit
 ### 7. Клонувати репозиторій
 
 ```bash
-git clone https://github.com/kshypachov/FastAPI_trembita_service.git
+git clone https://github.com/MadCat-88/Trembita_Py_R_SyncSrv.git
 ```
 
 ### 8. Перейти до директорії з вебсервісом:
