@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Змінні для конфігурації
-REPO_URL="https://github.com/kshypachov/FastAPI_trembita_service.git"
-PROJECT_DIR="FastAPI_trembita_service"
+REPO_URL="https://github.com/MadCat-88/Trembita_Py_R_SyncSrv.git"
+PROJECT_DIR="Trembita_Py_R_SyncSrv"
 VENV_DIR="venv"
 DB_USER="your_db_user"
 DB_PASSWORD="your_db_password"
