@@ -16,7 +16,7 @@ sudo apt-get install -y curl libmariadb-dev gcc python3 python3-venv python3-dev
 ### 2. Додати репозиторій MariaDB:
 
 ```bash
-curl -sS https://downloads.mariadb.com/MariaDB/mariadb_repo_setup | sudo bash
+curl -LsS https://r.mariadb.com/downloads/mariadb_repo_setup | sudo bash
 ```
 
 ### 3. Встановити СУБД MariaDB:
