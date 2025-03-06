@@ -4,7 +4,7 @@
 
 |  Метод HTTP | Код сервісу  | Базова URL                        |
 |:-------:|:-------------:|-----------------------------------|
-|  POST   |   Post Person     | http://your-server-ip:8000/person |
+|  POST   |  Person Post     | http://your-server-ip:8000/person |
 
 
 Параметри запиту виглядають наступним чином:
